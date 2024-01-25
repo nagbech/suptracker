@@ -6,5 +6,5 @@ SupTracker est une application de visualisation des données de la plateforme Pa
 - **Responsables :** Nagui Bechichi (Twitter/X @NaguiBechichi), Antoine Prévotat (Twitter/X @PrevotatAntoine)
 - **Contact :** via Twitter, ou par mail : contact@suptracker.org
 
-- **Communauté** : Sur cette page github, vous pouvez échanger librement avec nous et les autres utilisateurs au sujet du projet SupTracker dans l'onglet [Discussions](https://www.suptracker.org](https://github.com/nagbech/suptracker/discussions)https://github.com/nagbech/suptracker/discussions).
+- **Communauté** : Sur cette page github, vous pouvez échanger librement avec nous et les autres utilisateurs au sujet du projet SupTracker dans l'onglet [Discussions](https://github.com/nagbech/suptracker/discussions).
 
